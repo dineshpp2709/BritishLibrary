@@ -1,6 +1,6 @@
 {'name': 'Library Management Application',
  'description': 'Library books, members and book borrowing.',
- 'author': 'Daniel Reis',
+ 'author': 'Dinesh Patankar',
  'depends': ['base'],
  'data': [
     'security/library_security.xml',
